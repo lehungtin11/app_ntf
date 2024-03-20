@@ -1,0 +1,11 @@
+{
+  "RabbitMQ": {
+    "Hostname": [ "10.244.5.162" ],
+    "Port": 5672,
+    "user": "admin",
+    "pass": "Infinity@2020"
+  },
+  "DataConnection": {
+    "mysql": "server=10.244.5.161;port=3306;uid=root;pwd=u72nry3![7.>U)%@;database=api"
+  }
+}
